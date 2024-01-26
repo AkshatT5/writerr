@@ -2,4 +2,4 @@
 
 # Writerr
 The world craves stories. Co-write the ones that matter with Writerr.
-Writerr a collaborative writing app for writers and novelists
+Writerr is a collaborative writing app for writers and novelists
