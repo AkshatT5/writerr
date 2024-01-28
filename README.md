@@ -1,6 +1,6 @@
 ![logo](https://github.com/AkshatT5/writerr/blob/main/images/logo.png)
 
-# Writerr
+# Writerr - A
 
 The world craves stories. Co-write the ones that matter with Writerr.
 Writerr is a collaborative writing app for writers and novelists
